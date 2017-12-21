@@ -1,6 +1,6 @@
 <2017-12-21 Thu>
 
 * Word Vector Representations: word2vec
-https://www.youtube.com/watch?v=ERibwqs9p38&t=179s
+https://www.youtube.com/watch?v=ERibwqs9p38&t=179s 40:00
 
 * 神经网络的输入输出到底是什么，代价函数到底起什么作用？
