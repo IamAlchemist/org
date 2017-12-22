@@ -1,6 +1,20 @@
-<2017-12-21 Thu>
+* <2017-12-21 Thu>
 
-* Word Vector Representations: word2vec
+* TODO Word Vector Representations: word2vec
 https://www.youtube.com/watch?v=ERibwqs9p38&t=179s 40:00
 
-* 神经网络的输入输出到底是什么，代价函数到底起什么作用？
+* TODO 神经网络的输入输出到底是什么，代价函数到底起什么作用？
+
+* <2017-12-22 Fri>
+
+* DONE 线性回归的输入输出到底是什么，什么是hypothsis function，什么是cost function
+* DONE contour plot and minize cost function
+* DONE what is gradient descent aglorithm? why call it batch gradient descent?
+* TODO what is the difference betwwen classific problem and linear regression problem?
+the hypothesis can't be linear regression
+the hypothesis should be logistic regression which 0 <= h(x) <= 1
+* what is sigmoid function, and what is it for? 
+* for logistic regression, how to interpret the hypothesis output? what is the output?
+h(x) = P(y = 1 | x; theta)
+* what is dicision boundary? what's is for?
+
