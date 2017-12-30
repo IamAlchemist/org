@@ -23,6 +23,15 @@ h(x) = P(y = 1 | x; theta)
 * DONE what is advanced gradient libraries?
 * <2017-12-24 Sun>
 * DONE multiclass classification
-* Non-linear hypothesis
-* NN represtation
+* <2017-12-30 Sat>
+* DONE Non-linear hypothesis
+* DONE NN represtation
+* DONE Examples and Intuitions
+* DONE Multiclass classification
+* DONE Cost function
+* DONE Backpropagation
+* DONE Backpropagetion intuitions
+
+
+
 
