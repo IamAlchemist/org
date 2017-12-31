@@ -1,9 +1,9 @@
 * <2017-12-21 Thu>
 
-* TODO Word Vector Representations: word2vec
+* DONE Word Vector Representations: word2vec
 https://www.youtube.com/watch?v=ERibwqs9p38&t=179s 40:00
 
-* TODO 神经网络的输入输出到底是什么，代价函数到底起什么作用？
+* DONE 神经网络的输入输出到底是什么，代价函数到底起什么作用？
 
 * <2017-12-22 Fri>
 
@@ -31,6 +31,11 @@ h(x) = P(y = 1 | x; theta)
 * DONE Cost function
 * DONE Backpropagation
 * DONE Backpropagetion intuitions
+* <2017-12-31 Sun>
+* Softmax function
+* SGD
+* DONE word2vec
+
 
 
 
