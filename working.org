@@ -1,3 +1,4 @@
+
 * <2017-12-21 Thu>
 
 * DONE Word Vector Representations: word2vec
@@ -32,11 +33,25 @@ h(x) = P(y = 1 | x; theta)
 * DONE Backpropagation
 * DONE Backpropagetion intuitions
 * <2017-12-31 Sun>
-* Softmax function
-* SGD
 * DONE word2vec
+* <2018-01-01 Mon>
+* DONE Global Vectors for Word Representation
+* DONE Word Window Classification and Neural Networks .... reread
+* <2018-01-02 Tue>
+* DONE editor: 左边对话流程中选中一句时，右边的属性显示分枝的条件 
+* <2018-01-03 Wed>
+* Softmax function
+* SGD, 
+* what is Single Vector Decomposition
+* what is senses can be recovered by sparse coding
+* Word Window Classification and Neural Networks .... reread
+* back propogation, delta
+* what is the delta and error, 特别是最后一层？
+* delta和true ground的关系？
+* 既然代价函数已经有了，那训练样本的作用是
 
-
-
-
-
+* <2018-03-12 Mon>
+* epub reader
+** FolioReaderKit
+** KFEpubKit
+** readium-sdk
