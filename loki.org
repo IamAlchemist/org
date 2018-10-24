@@ -1,25 +1,5 @@
-* <2018-04-08 Sun>
-* demo dialog
-** coorinator should pause/and tell vc when the answer is over .... 0.5
-** vc should know the answer is correct or wrong .... 0.5
-** NpcPracticeCoverView should show mew .... 1.5
-** NpcPracticeCoverView give a correct/wrong review .... 0.5
-** vc should resume co .... 0.1
-** vc should add the practice score .... 0.5
-** when demo is done, vc should pop up score review .... 0.5
-** there are two role in the dialog role bar 
-
-* <2018-07-18 Wed>
-** background issues in language learning
-** popular methodology
-** describing learners
-** describing teachers
-** describing learning contexts
-** educational technology And other learning resources
-** teAChIng lAnguAge ConstruCtIon
-** teAChIng grAMMAr
-** teAChIng VoCABulAry
-** teAChIng pronunCIAtIon
-** teAChIng lAnguAge skIlls
-** lIstenIng
-** speAkIng
+* <2018-10-24 Wed>
+** 制作一个卡片上下抛动
+*** 学习Action的文档 .... d
+*** 学习如何制作一个Action .... 
+** 制作一个卡片可以被切开
